@@ -35,7 +35,7 @@ public class HomeWork1_1 {
         }
         if (value > 100) {
             System.out.println("Зеленый");
-        } 
+        }
     }
 
     public static void compareNumbers() {
