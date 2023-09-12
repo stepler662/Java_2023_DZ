@@ -37,7 +37,7 @@ public class HomeWork1_1 {
             System.out.println("Зеленый");
         }
     }
-
+ 
     public static void compareNumbers() {
         int a = 662;
         int b = 77;
