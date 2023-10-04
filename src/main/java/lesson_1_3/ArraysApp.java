@@ -59,6 +59,10 @@ public class ArraysApp {
         Arrays.sort(arr7);
         System.out.println(Arrays.toString(arr7));
 
+
+        //Last element
+        System.out.println(arr7[arr7.length-1]);
+
     }
 
     public static int[] createArrayAndFillIt(int length, int valueToFill){
